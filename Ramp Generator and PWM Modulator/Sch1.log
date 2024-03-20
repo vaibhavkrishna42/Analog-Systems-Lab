@@ -1,0 +1,26 @@
+Circuit: * C:\Users\gvaib\Vaibhav\IITM\Acads\Semester 4\EE2019 - Analog Systems and Lab\Exp1\Sch1.asc
+
+Limiting rise time of source v3 to 0.5
+Limiting fall time of source v3 to 0.5
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+
+Date: Fri Feb 10 15:45:51 2023
+Total elapsed time: 16.017 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 459120
+traniter = 459120
+tranpoints = 122878
+accept = 90224
+rejected = 32652
+matrix size = 27
+fillins = 11
+solver = Normal
+Thread vector: 51.0/29.0[2] 6.6/4.3[2] 4.9/2.6[2] 5.1/0.9[2]  2592/500
+Matrix Compiler1: 2.03 KB object code size  1.7/1.0/[0.4]
+Matrix Compiler2: 2.63 KB object code size  0.8/1.5/[0.4]
+
