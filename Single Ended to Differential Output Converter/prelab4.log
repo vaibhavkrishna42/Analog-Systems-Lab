@@ -1,0 +1,29 @@
+Circuit: * C:\Users\gvaib\Vaibhav\IITM\Acads\Semester 4\EE2019 - Analog Systems and Lab\Lab\Exp4\prelab4.asc
+
+WARNING: Node N002 is floating.
+
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Heightened Def Con from 0.0129678 to 0.0129678
+
+Date: Fri Feb 24 16:15:34 2023
+Total elapsed time: 21.023 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1287766
+traniter = 1287766
+tranpoints = 364496
+accept = 264194
+rejected = 100299
+matrix size = 28
+fillins = 10
+solver = Normal
+Thread vector: 14.3/9.6[2] 2.9/2.5[2] 2.1/1.5[2] 0.2/1.2[1]  2592/500
+Matrix Compiler1: 1.71 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: 2.61 KB object code size  0.4/0.6/[0.2]
+
