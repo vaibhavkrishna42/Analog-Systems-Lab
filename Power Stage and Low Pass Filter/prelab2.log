@@ -1,0 +1,98 @@
+Circuit: * C:\Users\gvaib\Vaibhav\IITM\Acads\Semester 4\EE2019 - Analog Systems and Lab\Lab\Exp2\prelab2.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Heightened Def Con from 9.72598e-008 to 1.0426e-007
+Heightened Def Con from 0.000112931 to 0.000112938
+Heightened Def Con from 0.000143715 to 0.000143722
+Heightened Def Con from 0.000153978 to 0.000153985
+Heightened Def Con from 0.000174497 to 0.000174504
+Heightened Def Con from 0.000184757 to 0.000184764
+Heightened Def Con from 0.0002258 to 0.000225807
+Heightened Def Con from 0.000338675 to 0.000338682
+Heightened Def Con from 0.000379706 to 0.000379713
+Heightened Def Con from 0.000410483 to 0.00041049
+Heightened Def Con from 0.000420743 to 0.00042075
+Heightened Def Con from 0.000472044 to 0.000472051
+Heightened Def Con from 0.000482304 to 0.000482311
+Heightened Def Con from 0.000523346 to 0.000523353
+Heightened Def Con from 0.000543865 to 0.000543872
+Heightened Def Con from 0.000554127 to 0.000554134
+Heightened Def Con from 0.000564388 to 0.000564395
+Heightened Def Con from 0.00059517 to 0.000595177
+Heightened Def Con from 0.000615692 to 0.000615699
+Heightened Def Con from 0.00063621 to 0.000636217
+Heightened Def Con from 0.000646473 to 0.00064648
+Heightened Def Con from 0.000697782 to 0.000697789
+Heightened Def Con from 0.000738825 to 0.000738832
+Heightened Def Con from 0.000769606 to 0.000769613
+Heightened Def Con from 0.000810635 to 0.000810642
+Heightened Def Con from 0.000820894 to 0.000820901
+Heightened Def Con from 0.000892719 to 0.000892726
+Heightened Def Con from 0.000913239 to 0.000913246
+Heightened Def Con from 0.000933763 to 0.00093377
+Heightened Def Con from 0.000985067 to 0.000985074
+Heightened Def Con from 0.000995328 to 0.000995335
+Heightened Def Con from 0.00102611 to 0.00102612
+Heightened Def Con from 0.00110821 to 0.00110821
+Heightened Def Con from 0.00111847 to 0.00111847
+Heightened Def Con from 0.00115951 to 0.00115952
+Heightened Def Con from 0.00116977 to 0.00116978
+Heightened Def Con from 0.00118003 to 0.00118004
+Heightened Def Con from 0.00121081 to 0.00121082
+Heightened Def Con from 0.0012416 to 0.0012416
+Heightened Def Con from 0.00127238 to 0.00127239
+Heightened Def Con from 0.00129291 to 0.00129291
+Heightened Def Con from 0.00130317 to 0.00130317
+Heightened Def Con from 0.00132369 to 0.0013237
+Heightened Def Con from 0.00133395 to 0.00133395
+Heightened Def Con from 0.00140577 to 0.00140578
+Heightened Def Con from 0.0014263 to 0.0014263
+Heightened Def Con from 0.00143656 to 0.00143656
+Heightened Def Con from 0.00145708 to 0.00145709
+Heightened Def Con from 0.0014776 to 0.00147761
+Heightened Def Con from 0.00150838 to 0.00150839
+Heightened Def Con from 0.00151865 to 0.00151865
+Heightened Def Con from 0.00156995 to 0.00156995
+Heightened Def Con from 0.00158021 to 0.00158021
+Heightened Def Con from 0.00160073 to 0.00160074
+Heightened Def Con from 0.00162126 to 0.00162126
+Heightened Def Con from 0.00163152 to 0.00163152
+Heightened Def Con from 0.00164178 to 0.00164179
+Heightened Def Con from 0.00169308 to 0.00169309
+Heightened Def Con from 0.0017136 to 0.00171361
+Heightened Def Con from 0.00173413 to 0.00173413
+Heightened Def Con from 0.00174439 to 0.0017444
+Heightened Def Con from 0.00175465 to 0.00175466
+Heightened Def Con from 0.00177517 to 0.00177518
+Heightened Def Con from 0.00179569 to 0.0017957
+Heightened Def Con from 0.00181622 to 0.00181622
+Heightened Def Con from 0.00182648 to 0.00182648
+Heightened Def Con from 0.00183673 to 0.00183674
+Heightened Def Con from 0.001847 to 0.001847
+Heightened Def Con from 0.00186752 to 0.00186752
+Heightened Def Con from 0.00188804 to 0.00188805
+Heightened Def Con from 0.00190856 to 0.00190857
+Heightened Def Con from 0.00192908 to 0.00192909
+Heightened Def Con from 0.00194961 to 0.00194961
+Heightened Def Con from 0.00195486 to 0.00195486
+
+Date: Fri Feb 24 12:43:46 2023
+Total elapsed time: 26.042 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 936852
+traniter = 936852
+tranpoints = 274494
+accept = 209999
+rejected = 64567
+matrix size = 50
+fillins = 13
+solver = Normal
+Thread vector: 29.0/10.6[3] 4.5/3.5[3] 2.6/2.2[3] 0.3/1.8[1]  2592/500
+Matrix Compiler1: 3.12 KB object code size  1.1/0.7/[0.3]
+Matrix Compiler2: 4.21 KB object code size  0.7/1.1/[0.4]
+

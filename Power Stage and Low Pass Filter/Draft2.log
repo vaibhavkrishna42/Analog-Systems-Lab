@@ -1,0 +1,8 @@
+Circuit: * C:\Users\gvaib\Vaibhav\IITM\Acads\Semester 4\EE2019 - Analog Systems and Lab\Exp2\Draft2.asc
+
+WARNING: Node VRAMP is floating.
+
+WARNING: Less than two connections to node VRAMP.  This node is used by C3.
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 6.94643e-009 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 6.94643e-009, timestep = 1.25e-019: trouble with buf-instance a3
+
